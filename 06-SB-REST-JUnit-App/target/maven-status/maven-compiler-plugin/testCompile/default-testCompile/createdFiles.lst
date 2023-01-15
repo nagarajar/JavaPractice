@@ -1,0 +1,3 @@
+com\ashokit\ApplicationTests.class
+com\ashokit\rest\BookRestControllerTest.class
+com\ashokit\rest\WelcomeRestControllerTest.class

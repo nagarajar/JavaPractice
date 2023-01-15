@@ -1,0 +1,7 @@
+com\ashokit\Application.class
+com\ashokit\rest\BookRestController.class
+com\ashokit\ServletInitializer.class
+com\ashokit\service\WelcomeService.class
+com\ashokit\bindings\Book.class
+com\ashokit\rest\WelcomeRestController.class
+com\ashokit\service\BookService.class
